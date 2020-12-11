@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "ResponseTag": "Acknowledged", "StatusMessage": "Success111!", "ResponseTime", "2020-11-04T19:41:57.2469982" },
-    { "id": 2, "ResponseTag": "NotHandled", "StatusMessage": "Fail!", "ResponseTime", "2020-01-04T19:41:57.2469982" }
+    { "id": 1, "ResponseTag": "Acknowledged", "StatusMessage": "Success111!", "ResponseTime": "2020-11-04T19:41:57.2469982" },
+    { "id": 2, "ResponseTag": "NotHandled", "StatusMessage": "Fail!", "ResponseTime": "2020-01-04T19:41:57.2469982" }
   ],
   "profile": {
     "name": "typicode"
